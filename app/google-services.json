@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "405477734996",
+    "firebase_url": "https://sudansportchatapp.firebaseio.com",
+    "project_id": "sudansportchatapp",
+    "storage_bucket": "sudansportchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405477734996:android:372ce5885ee50a0a7f4bc1",
+        "android_client_info": {
+          "package_name": "com.example.sudansportchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405477734996-s9dmdscs6bcngr31dtkthfvj2avb2ipf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudansportchatapp",
+            "certificate_hash": "5db28fa6f4d6f0914bd4e58aee7077b670154f89"
+          }
+        },
+        {
+          "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRi8yRPh3p4aDp20o0rQ8-7d5QGUH2Koo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405477734996:android:2d5d9cea480542567f4bc1",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405477734996-ioujnfdi2i7n4gk80a19bvhjcvmvuhfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.whatsappclone",
+            "certificate_hash": "5db28fa6f4d6f0914bd4e58aee7077b670154f89"
+          }
+        },
+        {
+          "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRi8yRPh3p4aDp20o0rQ8-7d5QGUH2Koo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405477734996:android:359e39ad1582f8fc7f4bc1",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405477734996-gk329hscs1bho9hmh9nm4vbsqkk7c1du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebasedatabasecrud",
+            "certificate_hash": "5db28fa6f4d6f0914bd4e58aee7077b670154f89"
+          }
+        },
+        {
+          "client_id": "405477734996-e9t2ltm4lbg4l1eno8iihvomotkr507j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebasedatabasecrud",
+            "certificate_hash": "68a9b364fa684373cb22b5b096b73222f4821537"
+          }
+        },
+        {
+          "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRi8yRPh3p4aDp20o0rQ8-7d5QGUH2Koo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405477734996:android:855158773381cec17f4bc1",
+        "android_client_info": {
+          "package_name": "www.pickens.whatscool.recordsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405477734996-mr8qjat9ibdniv6rg99bp9esmdf3aeti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.pickens.whatscool.recordsystem",
+            "certificate_hash": "5db28fa6f4d6f0914bd4e58aee7077b670154f89"
+          }
+        },
+        {
+          "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRi8yRPh3p4aDp20o0rQ8-7d5QGUH2Koo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405477734996-phrq0jkm9ql273g3jlg9pqvpbbelbk9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

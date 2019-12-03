@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Personally Note</string>
+    <string name="Skillhunt">Skillhunts-Tech.code</string>
+    <string name="tyoutube" translatable="false">We have course in youtube if you want follow me watch our Skillhunters-tech.Tv</string>
+    <string name="fullName">FullName</string>
+    <string name="Email">E-mail</string>
+    <string name="Phone">Phone</string>
+    <string name="CONTa">Contacts</string>
+    <string name="EmailsA">E-mail Adresses</string>
+    <string name="Add">Stree Apt/hous#-- Country--City-State--ZipCode</string>
+    <string name="reason">The reason you record this persons information</string>
+    <string name="Rea">The Reason</string>
+    <string name="Date">Pick Date you Record</string>
+    <string name="Dates">The Date you recorded</string>
+    <string name="textAddress">Home Address</string>
+    <string name="AboutThisApp">About Our App</string>
+    <string name="txtAbout">This app is help you to record personel information easy way keep this app that realy will help you to record any personal information  for more information watch Our show on SkillhuntTech.Code</string>
+    <string name="textP">Personal Informations Note App</string>
+</resources>

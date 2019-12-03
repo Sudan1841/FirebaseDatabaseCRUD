@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/color_4"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Views.SplashActivity">
+
+    <ImageView
+        android:id="@+id/mLogo"
+        android:layout_width="426dp"
+        android:layout_height="371dp"
+
+        android:src="@drawable/eagle" />
+
+    <TextView
+        android:id="@+id/mainTitle"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/Skillhunt"
+        android:textAlignment="center"
+        android:textColor="#0A31F5"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/subTitle"
+        android:layout_width="341dp"
+        android:layout_height="156dp"
+        android:text="@string/tyoutube"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
+
+</LinearLayout>
